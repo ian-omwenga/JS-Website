@@ -1,5 +1,5 @@
 //console.log(`Wagwan`);
-//console.log(`Noah Lyles big mouth fucka`)
+//console.log(`Noah Lyles big mouth`)
 
 //window.alert(`This is a wake up call aleert`);
 //window.alert(`Bong Bonhg`);
